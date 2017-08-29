@@ -247,13 +247,14 @@ input[type=submit] {
     margin-top:3px;
   }
   .main-section{
-    max-width: 457px;
+    max-width: 50%;
     padding: 17px;
     margin: 0px 0px 40px 84px
   }
   .sidebar{
     float: left;
-    margin-left: 47px;
+    max-width: 35%;
+    margin-left: 25px;
   }
   footer{
     padding:22px;
@@ -281,7 +282,7 @@ input[type=submit] {
     margin: 0px 0px 40px 20px;
   }
   .auth-image{
-    width:341px;
+    width:50%;
   }
   .sidebar{
     margin-left: 20px;
